@@ -23,4 +23,4 @@ if my_bmi < 18.5 then
   puts "obese. "
 end
 
-END { puts "Try again tommorrow!" }
+END { puts "Try again tomorrow!" }
